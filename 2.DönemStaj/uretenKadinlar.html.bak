@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>NİSA BANK</title>
+
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto:400,700&display=swap" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-11 offset-md-1 px-0">
+            <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
+              <a class="navbar-brand" href="index.html">
+                <span>
+                  Nisa Bank
+                </span>
+              </a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                  <ul class="navbar-nav  ">
+                    <li class="nav-item ">
+                      <a class="nav-link pl-0" href="banka.html">Ana Sayfa <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="banka.html"> Hakkımızda </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="veriler.html">Veriler </a>
+                    </li>
+                    <li class="nav-item active">
+                      <a class="nav-link" href="uretenKadinlar.html"> Üreten Kadınlar </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="contact.html">Giriş</a>
+                    </li>
+					<li class="nav-item">
+                      <a class="nav-link" href="kayit2.php">Kayıt ol</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- end header section -->
+
+  </div>
+  <!-- end hero area -->
+
+  <!-- blog section -->
+  <section class="blog_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          İlham Veren Kadınlar
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/fidan.jpeg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h4>
+                Fidan Taşkın
+              </h4>
+              <p>
+               And Filtre Şirket Sahibi
+               2003’te İstanbul Teknik Üniversitesi’nde lisans eğitimini bölüm birincisi olarak tamamlayan Melike Altınışık, 
+			   Londra’da Architectural Association Design Research Laboratory’de 
+			   Mimarlık ve Kentsel Tasarım üzerine yüksek lisans eğitimi aldı. 
+			   2006-2013 yılları arasında Londra’da Zaha Hadid Architects bünyesinde 
+			   proje yürütücüsü olarak uluslararası projelerde çalıştı. 
+			   2013’te İstanbul’da kendi mimarlık pratiği Melike Altınışık Architects’i kurdu. 
+			   2018 yılında Europe 40 under 40 ödülüne layık görülerek Avrupa’nın 
+			   en iyi 40 yaş altı 40 mimarından biri olarak seçildi. 
+			   Projeleri arasında İstanbul Çamlıca TV ve Radyo Kulesi gibi ödüllü projeler yer alıyor.
+
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/asli.jpeg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h4>
+                Aslı Elif TanUğur
+              </h4>
+              <p>
+               Beeo Genel Müdürü
+               İstanbul Teknik Üniversitesi 
+               Gıda Mühendisliği Bölümü mezunudur. 
+			   Uzun yıllar bal sektörünün öncü firmalarından 
+			   birinde Ar-Ge ve Kalite Direktörü olarak görev yaptı. 
+			   Çalışma hayatı boyunca bal ile ilgili pek çok araştırma ve 
+			   projenin yaratıcısı ve yürütücüsü oldu. 17 yıllık profesyonel çalışma hayatının 
+			   ardından 5 yaşındaki oğlunun sağlık problemleri nedeniyle girişimci olmaya karar verdi. 
+			   Kovandan bal dışında türev ürünler (propolis, arı sütü, polen) elde etmeyi amaçladı ve BEEO markasıyla kendi başarı hikâyesine imza attı. Firması 
+               bugüne kadar ulusal ve uluslararası çapta seçkin ödüllerle takdir edilirken, 
+               birçok kez başarılı kadın girişimci olarak kürsülere çıktı.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/özlem.jpeg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h4>
+                Özlem Taşkın
+              </h4>
+              <p>
+                Eternal Ayakkabı – Rollbab Şirket Kurucusu
+                İstanbul Üniversitesi Endüstri Mühendisliği bölümü mezunudur. 
+               Henüz üniversitede iken girişimci ruhunu hayata geçirmiş, 
+              “Endüstri ve Kalite Kulübü“ başkanlığı ve üniversite bünyesindeki 
+   14 mühendislik kulübünü biraraya getiren İUMK Platformu kurucu başkanlığı yapmıştır. 
+Profesyonel hayatta; Ürün Geliştirme, Kalite Kontrol Süreç Yönetmenliği,
+ Ürün Kategori Yöneticiliği ve 
+ Stratejik Planlama Yöneticiliği yaparak iş geliştirme odaklı görevler üstlenmiştir. 
+ Üyesi olduğu Junior Chamber International (Genç Liderler ve Girişimciler Derneği) 
+ Bahçeşehir Şubesi’nin 2015-2017 yılları Başkan Yardımcılığı’nı ifa etmiştir. 2014 yılında Eternal adındaki kendi 
+şirketini kurarak "Rollbab" marka patentli “katlanabilir ayakkabı-büyüyebilen çanta konsepti” 
+ile sektöre yeni bir bakış getirmiştir.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end blog section -->
+
+  <!-- info section -->
+  <section class="info_section layout_padding-top layout_padding2-bottom">
+    <div class="container">
+      <div class="social_container">
+        <h2>
+          Follow Us
+        </h2>
+        <div class="social_box">
+          <a href="https://www.facebook.com/">
+            <img src="images/fb.png" alt="" />
+          </a>
+          <a href="https://twitter.com/">
+            <img src="images/twitter.png" alt="" />
+          </a>
+          <a href="https://www.linkedin.com/feed/">
+            <img src="images/linkedin.png" alt="" />
+          </a>
+          <a href="https://www.youtube.com/">
+            <img src="images/youtube.png" alt="" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- footer section -->
+  <section class="container-fluid footer_section">
+    <div class="container">
+      <p>
+        &copy; 2020 All Rights Reserved By
+        <a href="https://html.design/">Free Html Templates</a>
+      </p>
+    </div>
+  </section>
+  <!-- footer section -->
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+
+  <script>
+    function openNav() {
+      document.getElementById("myNav").style.width = "100%";
+    }
+
+    function closeNav() {
+      document.getElementById("myNav").style.width = "0%";
+    }
+  </script>
+
+</body>
+
+</html>
